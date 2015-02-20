@@ -1,6 +1,6 @@
 ﻿Public Class RNCaja
     Inherits CADO
-
+    'ESTO ES PARA PROBAR GIT OJALA NO SE CAGE CSMM
     Sub Registrar(ByVal wCaja As Caja)
         Dim pars As New List(Of CParametro)
 
